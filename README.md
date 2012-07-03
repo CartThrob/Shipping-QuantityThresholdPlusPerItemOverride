@@ -1,4 +1,8 @@
-shipping-quantity-threshold-plus-per-item-override
-==================================================
+cartthrob-shipping
+=========================================================
 
-Quantity Threshold shipping plugin with a per-item shipping cost override
+Installation: move file to system > expressionengine > third_party > cartthrob > cartthrob > plugins > shipping
+
+http://cartthrob.com/docs/shipping/index.html
+
+This plugin is provided as-is at no cost with no warranty expressed or implied. Support is not included. 
